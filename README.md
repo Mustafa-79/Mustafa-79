@@ -1,5 +1,5 @@
 # Hi there, I'm Mustafa Abbas 👋
-🎓 **Final-Year Computer Science Student** at LUMS (CGPA: 3.96) | 🚀 Passionate about **Machine Learning**, **AI**, and **Open Source**
+🎓 **Final-Year Computer Science Student** at LUMS (CGPA: 3.96) | 🚀 Passionate about **Machine Learning**, **AI**, and **Generative AI**
 
 ---
 
