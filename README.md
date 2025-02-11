@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Mustafa Abbas 👋
+🎓 **Final-Year Computer Science Student** at LUMS (CGPA: 3.96) | 🚀 Passionate about **Machine Learning**, **AI**, and **Open Source**
+
+---
+
+## 🛠️ About Me  
+- 🌟 **Top 4% BS graduating class** of 2025 at LUMS with a strong foundation in AI, Federated Learning, and NLP.
+- 🧑‍🏫 Former **Teaching Assistant** for Operating Systems and AI, supporting 300+ students with tutorials and assignments.
+- 📚 **Published Researcher** with a COLING 2025 paper on Urdu ASR models.
+- 💡 Open-source contributor with expertise in Python, TypeScript, and modern frameworks like PyTorch and LangChain.
 
 ```                                                                                                                                      
                                                                                                               
@@ -50,6 +59,8 @@ $$$$$$$$$$$&&&&& &$$$$$$$$$$$$$XXXXXXXXXXXxXXXXXXXXXXX+:::::+xxxX$$XXXXXXXXXX$$$
 $$$$$$$$$$$&&&&  &$$$$$$$$$$$$$$$$$$XXXXXXXxXXXXXXXXXXXx;::+xxX$$$XXXXXX$$$$$$$$$$X$$XXX$$$$$$$$$$$$$&$$$$$$$$
 &$$$$$$$$$$&&&&   $$$$$$$$$$$$$$$$$$$$$$XXXXXXxxxXXXXXXXX++xXX$$XXXXX$$$$$$$XXXXXXXXXXXXXXXXXX$$$$$$$&$$$$$$XX
 ```
+
+Text_content </p>
 <!--
 **Mustafa-79/Mustafa-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
