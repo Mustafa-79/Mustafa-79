@@ -60,7 +60,6 @@ $$$$$$$$$$$&&&&  &$$$$$$$$$$$$$$$$$$XXXXXXXxXXXXXXXXXXXx;::+xxX$$$XXXXXX$$$$$$$$
 &$$$$$$$$$$&&&&   $$$$$$$$$$$$$$$$$$$$$$XXXXXXxxxXXXXXXXX++xXX$$XXXXX$$$$$$$XXXXXXXXXXXXXXXXXX$$$$$$$&$$$$$$XX
 ```
 
-Text_content </p>
 <!--
 **Mustafa-79/Mustafa-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
