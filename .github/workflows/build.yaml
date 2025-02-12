@@ -37,4 +37,5 @@ jobs:
           git config --global user.email "25100079@lums.edu.pk"
           git config --global user.name "Mustafa-79"
           git commit -m "Updated README" -a || echo "No changes to commit"
+          git pull --rebase https://${{ secrets.ACCESS_TOKEN }}@github.com/Mustafa-79/Mustafa-79.git main
           git push https://${{ secrets.ACCESS_TOKEN }}@github.com/Mustafa-79/Mustafa-79.git
